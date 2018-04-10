@@ -1,0 +1,43 @@
+html{
+    font-family: veranda, serif, sans-serif;
+}
+
+body{
+        background-image: url('/static/pics/openpagebackground.jpg');
+}
+
+h1{
+    font-family: Oldtown, fantasy, impact, serif, "Lucida Grande";
+    color: black;
+    text-align: center;
+}
+
+h2{
+    font-family: impact, serif, Calibri Light", sans-serif;
+    color: black;
+   display: inline;
+}
+
+h3{
+    font-family: "Arial Black", Gadget, sans-serif
+}
+
+a{
+    color: black;
+}
+
+p{
+    font-family: 'Verdana', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', sans-serif;
+    color: black;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    display: inline;
+}
